@@ -108,6 +108,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f5" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="ctrl f8" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift ctrl alt j" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
@@ -136,6 +139,7 @@
   </action>
   <action id="Uml.NodeIntentions" />
   <action id="Uml.ShowDiff" />
+  <action id="UpdateRunningApplication" />
   <action id="ViewSource" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
